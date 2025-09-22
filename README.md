@@ -1,6 +1,6 @@
 ![Project Cover](/frontend/src/assets/cover.svg)
 
-# UniHelper
+# uni-helping-hand
 
 [unihelper.com](https://uni-helper-five.vercel.app/)
 
