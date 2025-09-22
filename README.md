@@ -7,7 +7,7 @@
 ## University Student's Management System.
 
 <div style="text-align: justify;">
-    UniHelper is a university management web application which I built as a personal project to improve on an existing university site. Inspired by the need for better functionality, UniHelper provides a dynamic experience tailored for different user (Admins, Students, and Teachers) with different, role-specific capabilities.
+    uni-helping-hand is a university management web application which I built as a personal project to improve on an existing university site. Inspired by the need for better functionality, uni-helping-hand provides a dynamic experience tailored for different user (Admins, Students, and Teachers) with different, role-specific capabilities.
 </div>
 
 ## Table of Contents
@@ -24,7 +24,7 @@
 ## Introduction
 
 <div style="text-align: justify;">
-    UniHelper offers an well decorated, role-based experience with a user friendly interface. It is designed to streamline common activities like advising, course management, consultation requests, and more. With a more modern and responsive approach, UniHelper significantly improves user specific needs.
+    uni-helping-hand offers an well decorated, role-based experience with a user friendly interface. It is designed to streamline common activities like advising, course management, consultation requests, and more. With a more modern and responsive approach, uni-helping-hand significantly improves user specific needs.
 </div>
 
 ## Features
